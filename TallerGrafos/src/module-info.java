@@ -1,0 +1,3 @@
+module TallerGrafos {
+	requires GrafoDirigido;
+}
